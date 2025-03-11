@@ -37,6 +37,27 @@ src="https://img.shields.io/github/followers/amnah-b?logo=github&style=for-the-b
   </a>
 </p>
 
+<p align="left" style="display: flex; align-items: center;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="Excel icon.png" width="36" height="36" alt="Excel" style="margin-right: 10px;" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="azure icon.png" width="36" height="36" alt="Azure" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="Tableau-Logo.png" width="36" height="36" alt="Tableau" style="margin-right: 10px;" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="power bi logo.png" width="36" height="36" alt="Power BI" />
+  </a>
+</p>
+
 
 ### Socials
 
