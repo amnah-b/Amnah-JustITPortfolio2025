@@ -36,6 +36,17 @@ src="https://img.shields.io/github/followers/amnah-b?logo=github&style=for-the-b
     <img src="Excel icon.png" width="36" height="36" alt="Excel" />
   </a>
 </p>
+<p align="left">
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository-name/main/images/Tableau-Logo.png" width="36" height="36" alt="Tableau" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository-name/main/images/azure-icon.png" width="36" height="36" alt="Azure" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository-name/main/images/power-bi-logo.png" width="36" height="36" alt="Power BI" />
+  </a>
+</p>
 
 
 
