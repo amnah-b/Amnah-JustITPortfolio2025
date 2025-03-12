@@ -20,7 +20,7 @@ My Projects
 - [Tableau Projects](./Tableau)
 - [Azure Projects](./Azure)
 - [Python Projects](./Python_Projects)
-- [SQL Projects](./SQL)
+- [SQL Projects](./SQL_Projects)
 
 <a href="https://www.github.com/amnah-b" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amnah-b?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a>
