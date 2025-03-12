@@ -17,9 +17,9 @@ This folder includes Python projects focused on data analysis, visualisation, an
 
 
    - Key Insights:
-     🔹 On average, the female students scored higher than the male students
-     🔹 Class 6 had the highest mark and class nine had the lowest.
-     🔹 Most students passed with a grade A. 
+     🔹 On average, the female students scored higher than the male students  
+     🔹 Class 6 had the highest mark and class nine had the lowest  
+     🔹 Most students passed with a grade A  
 
 
 **Visualisations:**
