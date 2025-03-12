@@ -11,6 +11,17 @@ I am looking for a career change as a Data Analyst. With a strong foundation in 
 * 🧠  I'm learning how to independently work on personal projects where I'm analysing publicly available datasets to identify trends and patterns
 * 🤝  I'm open to collaborating on any interesting projects
 
+## Contents of this Portfolio:   
+
+My Projects  
+
+- [Excel Projects](./Excel)
+- [Power BI Projects](./PowerBI)
+- [Tableau Projects](./Tableau)
+- [Azure Projects](./Azure)
+- [Python Projects](./Python)
+- [SQL Projects](./SQL)
+
 <a href="https://www.github.com/amnah-b" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amnah-b?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a>
 
