@@ -19,7 +19,7 @@ My Projects
 - [Power BI Projects](./PowerBI_Dashboards)
 - [Tableau Projects](./Tableau)
 - [Azure Projects](./Azure)
-- [Python Projects](./Python)
+- [Python Projects](./Python_Projects)
 - [SQL Projects](./SQL)
 
 <a href="https://www.github.com/amnah-b" target="_blank" rel="noreferrer"><img
