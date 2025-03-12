@@ -15,7 +15,7 @@ I am looking for a career change as a Data Analyst. With a strong foundation in 
 
 My Projects  
 
-- [Excel Projects](./Excel)
+- [Excel Projects](./Excel_Analysis) 
 - [Power BI Projects](./PowerBI)
 - [Tableau Projects](./Tableau)
 - [Azure Projects](./Azure)
