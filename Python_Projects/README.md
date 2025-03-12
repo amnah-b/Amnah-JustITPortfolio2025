@@ -11,7 +11,7 @@ This folder includes Python projects focused on data analysis, visualisation, an
      ✔ Seaborn
      
    - **Dataset:**  File: [📂 Download CSV](./student(in).csv)
-   - [📂 View Notebook](./Python_Projects/student.ipynb)
+   - [📂 View Notebook]([./Python_Projects/student.ipynb](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/student.ipynb))
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/Bootcamp-Portfolio-2025/blob/main/Python_Projects/student.ipynb)
 
 
