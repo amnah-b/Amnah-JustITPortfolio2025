@@ -2,6 +2,8 @@
 
 This folder includes Python projects focused on data analysis, visualisation, and machine learning.
 
+ - [📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/Amnah_Bibi_Data_Technician_Workbook_Week_5.pdf)
+
 ## 🔹 Projects
 1. **Student Performance Analysis** - A spreadsheet analysing the performance of students in different classes. 
 
@@ -12,8 +14,6 @@ This folder includes Python projects focused on data analysis, visualisation, an
      
    - **Dataset:**  File: [📂 Download CSV](./student(in).csv)
    - [📂 View Google Colab Book](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/student.ipynb)
-   - [📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/Amnah_Bibi_Data_Technician_Workbook_Week_5.pdf)
-
 
 
    - Key Insights:
