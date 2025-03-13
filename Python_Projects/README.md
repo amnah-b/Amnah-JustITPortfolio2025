@@ -12,7 +12,7 @@ This folder includes Python projects focused on data analysis, visualisation, an
      ✔ Matplotlib
      ✔ Seaborn
      
-   - **Dataset:**  File: [📂 Download CSV](./student(in).csv)
+   - **Dataset:**  [📂 Download CSV](./student(in).csv)
    - [📂 View Google Colab Book](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/student.ipynb)
 
 
