@@ -2,7 +2,7 @@
 
 This folder contains my Tableau projects, showcasing my skills in data visualistion and dashboard creation. The projects here demonstrate my ability to analyse data, create interactive visualisations, and present insights clearly.  
 
-- [📂 View Workbook PDF]()
+- [📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Tableau/Amnah_Bibi_Data_Technician_Workbook_Week_2.pdf)
 
 ## Projects in This Folder:
 - **Project 1:** Description of your first Tableau project, such as building a sales dashboard or creating visualizations from a dataset.
