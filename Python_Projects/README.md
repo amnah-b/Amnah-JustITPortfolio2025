@@ -12,7 +12,7 @@ This folder includes Python projects focused on data analysis, visualisation, an
      
    - **Dataset:**  File: [📂 Download CSV](./student(in).csv)
    - [📂 View Notebook](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/student.ipynb)
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amnah-JustITPortfolio2025/Bootcamp-Portfolio-2025/blob/main/Python_Projects/student.ipynb)
+   - [View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/Amnah_Bibi_Data_Technician_Workbook_Week_5.pdf)
 
 
 
