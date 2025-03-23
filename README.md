@@ -9,7 +9,7 @@ I am looking for a career change as a Data Analyst. With a strong foundation in 
 * 🌍  I'm based in the West Midlands
 * ✉️  You can contact me at [amnahb@outlook.com](mailto:amnahb@outlook.com)
 * 🧠  I'm learning how to independently work on personal projects where I'm analysing publicly available datasets to identify trends and patterns
-* 🤝  I'm open to collaborating on any interesting projects
+* 🤝  I'm open to collaborating on any interesting projects  
 
 * ## 📌 My Website
 [![Portfolio](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
