@@ -6,6 +6,8 @@ Data Technician
 
 I am looking for a career change as a Data Analyst. With a strong foundation in communication, organisation and attention to detail, I am excited to apply my analytical mindset and curiosity to help organisation's make informed, data-driven decisions. I have honed my technical skills in data analysis tools such as Microsoft Azure, Power BI, Python, SQL, Excel, and Tableau, and I’m continuously expanding my knowledge in areas like data visualisation. Through JustIT's Data Technician Skills Bootcamp and personal projects, I have developed a keen understanding of data cleaning, exploration, and analysis, and I’m eager to contribute to meaningful insights in any organisation. I’m currently seeking an entry-level/junior position where I can apply my passion for data analytics, contribute to a team, and grow alongside like-minded professionals.
 
+* ## 📌 My Portfolio
+[![Portfolio](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
 * 🌍  I'm based in the West Midlands
 * ✉️  You can contact me at [amnahb@outlook.com](mailto:amnahb@outlook.com)
 * 🧠  I'm learning how to independently work on personal projects where I'm analysing publicly available datasets to identify trends and patterns
