@@ -13,8 +13,6 @@ I am looking for a career change as a Data Analyst. With a strong foundation in 
 
 ## 📌 [![Portfolio](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio%20Website-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
 
- [![Portfolio_Website ](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
-
 
 ## Contents of this Portfolio:   
 
