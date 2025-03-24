@@ -3,7 +3,7 @@
 
 This folder contains my Azure-related projects. These projects showcase my experience with Microsoft Azure services and tools, including cloud infrastructure, automation, and deployment.  
 
-[📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Python_Projects/Amnah_Bibi_Data_Technician_Workbook_Week_5.pdf)
+[📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Azure/Amnah_Bibi_Data_Technician_Workbook_Week_4.pdf)
 
 ## **Project: "Paws & Whiskers" 🐾**   
 - **Context:** A growing pet shop aims to improve its business by analysing sales, customer information, and inventory data. Currently, the data is collected manually or stored in spreadsheets. Management is interested in transitioning to Microsoft Azure to streamline data storage, analysis, and reporting, enabling them to make data-driven decisions.  
