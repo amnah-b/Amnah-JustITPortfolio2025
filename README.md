@@ -11,7 +11,7 @@ I am looking for a career change as a Data Analyst. With a strong foundation in 
 * 🧠  I'm learning how to independently work on personal projects where I'm analysing publicly available datasets to identify trends and patterns
 * 🤝  I'm open to collaborating on any interesting projects  
 
-## 📌 [![Portfolio](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio%20Website-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
+## [![Portfolio](https://img.shields.io/badge/Google%20Sites-Visit%20My%20Portfolio%20Website-blue?logo=google-sites&style=for-the-badge)](https://sites.google.com/view/amnahbibiportfolio/home)
 
 
 ## Contents of this Portfolio:   
