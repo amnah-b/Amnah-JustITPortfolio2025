@@ -26,9 +26,9 @@ The General Data Protection Regulation (GDPR) is the European Union law designed
    - Data Minimisation: The shop should only collect data necessary for the purpose and limit the retention period.
 
 ### Data Protection Act (DPA) 2018 -
-The Data Protection Act (DPA) 2018 is the UK’s implementation of the GDPR. It outlines how personal data must be processed, stored, and protected in the UK.
+The Data Protection Act (DPA) 2018 is the UK’s implementation of the GDPR. It outlines how personal data must be processed, stored, and protected in the UK.  
 
--	*How this can be helpful for Paws & Whiskers:*
+- *How this can be helpful for Paws & Whiskers:*
    - Security: Customer data must be stored securely, and appropriate technical measures such as encryption and access controls should be applied to protect the data from unauthorised access.
    - Rights of Individuals: Customers have the right to request access to the data held about them, the right to rectify inaccuracies, and the right to request the erasure of their data.
    - Data Transfers: If Paws & Whiskers transfers customer data outside the UK, it must ensure that the data is protected to the same standard as required by the UK GDPR, including using Azure services with appropriate compliance certifications.
