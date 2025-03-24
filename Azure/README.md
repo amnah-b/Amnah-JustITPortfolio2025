@@ -1,4 +1,5 @@
-# Azure Projects
+# Azure Projects ☁️ 
+
 
 This folder contains my Azure-related projects. These projects showcase my experience with Microsoft Azure services and tools, including cloud infrastructure, automation, and deployment.
 
