@@ -7,9 +7,17 @@ This folder contains Excel-based data analysis projects, showcasing data cleanin
 ## 🔹 Bike Sales Dataset 
 This dataset displayed how factors such as region, commuting distance, education level, income, gender, and age influence customers' bike purchases.
    
-- **Skills Used:** Pivot Tables, Slicers, VLOOKUP, IF Statements, MIN(), MAX(), AVERAGE(), COUNT()
+- **Skills Used:**  
+  Pivot Tables, Slicers, VLOOKUP, IF Statements, MIN(), MAX(), AVERAGE(), COUNT()
 
-- **Dataset:** The dataset consists of a huge amount of rows containing details of customer demographics. The columns are titled: Date, Month, Year, Customer Age, Age Group, Gender, Country, State, Product Category, Sub-Category, Product, Order Quantity, Unit Cost, Unit Price, Profit, Cost and Revenue
+- **Dataset:**  
+  The dataset consists of a huge amount of rows containing details of customer demographics. The columns are titled: Date, Month, Year, Customer Age, Age Group, Gender, Country, State, Product Category, Sub-Category, Product, Order Quantity, Unit Cost, Unit Price, Profit, Cost and Revenue
+
+- **Method:**
+  *Data Cleaning*: Verified data types, and removed duplicates and irrelevant columns.
+  *Exploratory Data Analysis*: Used pivot tables to explore differences in bike purchase patterns by alternating customer demographics.
+  *Analysis*: Calculated average income and grouped customer data by gender to compare income and gender against bike purchases.
+Analysed bike number of purchases by age group and examined how commute distance to work influenced bike sales.
   
 - **Key Insights:** [Summarise key findings]
   
