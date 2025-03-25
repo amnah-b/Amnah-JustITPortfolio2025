@@ -8,9 +8,8 @@ This folder includes SQL queries and projects involving data extraction, transfo
 
 **Context:** Imagine you have been hired by a small retail business that wants to streamline its operations by creating a new database system. This database will be used to manage inventory, sales, and customer information. The business is a small corner shop that sells a range of groceries and domestic products. It might help to picture your local convenience store and think of what they sell. They also have a loyalty program, which you will need to consider when deciding what tables to create.
 
-<p align="center">
-  # Designing a Database for a Small Corner Shop
-</p>
+<h1 align="center">Designing a Database for a Small Corner Shop</h1>
+
 
  
 
