@@ -22,15 +22,15 @@ The data types that would be used in this database are: Numeric (both integer an
  
 ## Designing the database schema: 
 
-Table 1: Inventory - The columns will be Product ID (which will be our primary key), Name, Category, Stock Quantity and Price. 
+*Table 1:* Inventory - The columns will be Product ID (which will be our primary key), Name, Category, Stock Quantity and Price. 
 
-Table 2:  Customer Information - The columns will be Customer ID (which will be our primary key), Customer Name and Contact Information. 
+*Table 2:*  Customer Information - The columns will be Customer ID (which will be our primary key), Customer Name and Contact Information. 
 
-Table 3: Sales - The columns will be Sales ID (which will be our primary key), Sale Date, Customer ID (which will be our foreign key) and Total Amount.  
+*Table 3:* Sales - The columns will be Sales ID (which will be our primary key), Sale Date, Customer ID (which will be our foreign key) and Total Amount.  
 
-Table 4: Sales Details - This will link our Sales and Inventory table. The columns will be SaleDetailsID (which is our primary key), SaleID (which is our foreign key linking to Sales), ProductID (which is our foreign key linking to Inventory), Quantity and Subtotal.  
+*Table 4:* Sales Details - This will link our Sales and Inventory table. The columns will be SaleDetailsID (which is our primary key), SaleID (which is our foreign key linking to Sales), ProductID (which is our foreign key linking to Inventory), Quantity and Subtotal.  
 
-Table 5: Loyalty Program Table – The columns will be CustomerID (which is our primary key) IsMember (which is our Boolean and will give TRUE/FALSE options for whether or not the customer is a member of our loyalty program) and Points.  
+*Table 5:* Loyalty Program Table – The columns will be CustomerID (which is our primary key) IsMember (which is our Boolean and will give TRUE/FALSE options for whether or not the customer is a member of our loyalty program) and Points.  
 
 The relationship between the tables is as follows: 
 
