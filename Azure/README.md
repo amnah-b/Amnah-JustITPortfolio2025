@@ -1,7 +1,7 @@
 # Azure Projects ☁️ 
 
 
-This folder contains my Azure-related projects. These projects showcase my experience with Microsoft Azure services and tools, including cloud infrastructure, automation, and deployment.  
+This folder contains my Azure-related project. This project showcases how I would use Microsoft Azure and its data storages to help optimise a small business. 
 
 [📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/Azure/Amnah_Bibi_Data_Technician_Workbook_Week_4.pdf)
 
