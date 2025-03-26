@@ -21,7 +21,8 @@ This dataset displayed how factors such as region, commuting distance, education
 - **Key Insights:**
   Bike sales increased with customers who are are males, middle aged customers (aged 31 to 54), from the North America region and with commutes up to 1 mile and 2-5 miles. 
   
-- **File:**  Excel_Analysis/Excel Project Dataset -.xlsx
+- **File:**
+Excel_Analysis/Excel Project Dataset -.xlsx
   
 ![image](https://github.com/user-attachments/assets/8b6c7d0f-72cf-4c28-bbbb-07d85717dd44)
 ![image](https://github.com/user-attachments/assets/2aa119bb-5b35-42d8-b3fb-ff8af7c54fcc)
