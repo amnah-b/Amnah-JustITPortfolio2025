@@ -18,7 +18,8 @@ This dataset displayed how factors such as region, commuting distance, education
   *Exploratory Data Analysis*: Used pivot tables to explore differences in bike purchase patterns by alternating customer demographics. 
  *Analysis*: Grouped the data by age group and country. Analysed the cost of revenue vs profits across the years. Calculated the cost of product category (bikes, clothing, accessories) revenue across different countries. Compared the sum of revenue across different age groups. 
   
-- **Key Insights:** [Summarise key findings]
+- **Key Insights:**
+  Bike sales increased with customers who are are males, middle aged customers (aged 31 to 54), from the North America region and with commutes up to 1 mile and 2-5 miles. 
   
 - **File:**  Excel_Analysis/Excel Project Dataset -.xlsx
   
