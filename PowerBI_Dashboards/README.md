@@ -5,7 +5,9 @@ This folder contains interactive Power BI dashboards, demonstrating data visuali
 [📂 View Workbook PDF](https://github.com/amnah-b/Amnah-JustITPortfolio2025/blob/main/PowerBI_Dashboards/Data_Technician_Workbook_Week_2_Power_BI.pdf)
 
 ## 🔹 Projects
-1. **[Project Name]** - [Brief description]
+1. **[Project Name]** - Adventure Works Dashboard
+
+   
    - Skills Used: DAX, Data Modeling, Interactive Visuals
    - Dataset: [Dataset Source/Description]
    - Key Insights: [Summarise key findings]
