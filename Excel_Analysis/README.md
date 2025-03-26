@@ -15,9 +15,8 @@ This dataset displayed how factors such as region, commuting distance, education
 
 - **Method:**
   *Data Cleaning*: Verified data types, and removed duplicates and irrelevant columns.
-  *Exploratory Data Analysis*: Used pivot tables to explore differences in bike purchase patterns by alternating customer demographics.
-  *Analysis*: Calculated average income and grouped customer data by gender to compare income and gender against bike purchases.
-Analysed bike number of purchases by age group and examined how commute distance to work influenced bike sales.
+  *Exploratory Data Analysis*: Used pivot tables to explore differences in bike purchase patterns by alternating customer demographics. 
+ *Analysis*: Grouped the data by age group and country. Analysed the cost of revenue vs profits across the years. Calculated the cost of product category (bikes, clothing, accessories) revenue across different countries. Compared the sum of revenue across different age groups. 
   
 - **Key Insights:** [Summarise key findings]
   
